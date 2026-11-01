@@ -7,7 +7,7 @@ Detect cars in images or video using a YOLOv8-based model.
 ## 📁 Repository Contents
 
 - **`my_model.pt`** – Directory with trained YOLOv8 model weights.
-- **`cardetectionmodel.ipynb`** – Script to run inference on images, video, or webcam feed.
+- **`car-model.ipynb`** – The notebook that trains the model
 - **`README.md`** – (This file!)
 
 ---
